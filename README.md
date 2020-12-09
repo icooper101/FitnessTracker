@@ -20,10 +20,16 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 > Running seeders/seed.js is optional to have a prepopulated database.
 
 # Usage 
-
+1. Homepage displaying last workout
 ![](https://github.com/SirPotatoIV/fitness-tracker/blob/master/public/images/main-view.png)
 
+2. Creating workout
 ![](https://github.com/SirPotatoIV/fitness-tracker/blob/master/public/images/exercise-view.png)
 
+3. Workout Dashboard displaying last weeks summary.
 ![](https://github.com/kqarlos/fitness-tracker/blob/master/public/assets/dash.png)
+
+# Credits
+Imogen Cooper
+Email - icooper101@gmail.com
 
