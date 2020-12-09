@@ -1,4 +1,4 @@
-# FitnessTracker :chart_with_upwards_trend:	
+# Fitness Tracker :chart_with_upwards_trend:	
 
 
 ## Description
