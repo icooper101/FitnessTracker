@@ -7,12 +7,9 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 # Table of Contents
 
-Installation
-Usage
-Screenshots
-Snippets
-Credits
-License
+- Installation
+- Usage
+- Credits
 
 # Installation
 1. Clone repository.
@@ -21,3 +18,12 @@ License
 4. ``` node server.js```
 
 > Running seeders/seed.js is optional to have a prepopulated database.
+
+# Usage 
+
+![](https://github.com/SirPotatoIV/fitness-tracker/blob/master/public/images/main-view.png)
+
+![](https://github.com/SirPotatoIV/fitness-tracker/blob/master/public/images/exercise-view.png)
+
+![](https://github.com/kqarlos/fitness-tracker/blob/master/public/assets/dash.png)
+
